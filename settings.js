@@ -43,7 +43,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
-global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
+global.vidmenu = fs.readFileSync("./XeonMedia/theme/vitess-bot.mp4") //gif and video menu
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -66,11 +66,11 @@ global.ownertag = '212661873671' //ur tag number
 global.botname = '10VITESS BOT' //ur bot name
 global.linkz = "" //your theme url which will be displayed on whatsapp
 global.websitex = "" //ur website to be displayed
-global.botscript = 'https://github.com/10VITESS/CheemsBot-MD4' //script link
+global.botscript = 'https://github.com/10VITESS/10VITESS' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.author = "🦄Dream Guy VITESS" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
